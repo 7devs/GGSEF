@@ -1,0 +1,84 @@
+{
+    "button": [
+        {
+            "name": "我的服务",
+            "sub_button": [
+                {
+                    "name": "我是学生",
+                    "type": "view",
+                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
+                },
+                {
+                    "name": "我是捐助人",
+                    "type": "view",
+                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
+                },
+                {
+                    "name": "成为捐助人",
+                    "type": "view",
+                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
+                }
+            ]
+        },
+        {
+            "name": "我的服务",
+            "sub_button": [
+                {
+                    "name": "我是学生",
+                    "type": "view",
+                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
+                },
+                {
+                    "name": "我是捐助人",
+                    "type": "view",
+                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
+                },
+                {
+                    "name": "成为捐助人",
+                    "type": "view",
+                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
+                }
+            ]
+        },
+        {
+            "name": "好好学习",
+            "sub_button": [
+                {
+                    "name": "关于基金会",
+                    "type": "view",
+                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
+                },
+                {
+                    "name": "2016年奖学金计划",
+                    "type": "view",
+                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
+                },
+                {
+                    "name": "联系我们",
+                    "type": "view",
+                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
+                }
+            ]
+        },
+        {
+            "name": "福利",
+            "sub_button": [
+                {
+                    "name": "好文章",
+                    "type": "view",
+                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
+                },
+                {
+                    "name": "近期活动安排",
+                    "type": "view",
+                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
+                },
+                {
+                    "name": "压箱宝",
+                    "type": "view",
+                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
+                }
+            ]
+        }
+    ]
+}
