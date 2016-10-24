@@ -21,26 +21,6 @@
             ]
         },
         {
-            "name": "我的服务",
-            "sub_button": [
-                {
-                    "name": "我是学生",
-                    "type": "view",
-                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
-                },
-                {
-                    "name": "我是捐助人",
-                    "type": "view",
-                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
-                },
-                {
-                    "name": "成为捐助人",
-                    "type": "view",
-                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
-                }
-            ]
-        },
-        {
             "name": "好好学习",
             "sub_button": [
                 {
