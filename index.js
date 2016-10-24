@@ -39,6 +39,8 @@ function start() {
     // 后台
     app.use('/admin', require('./lib/routers/admin.js'));
 
+    app.use('/pages', require('./lib/routers/pages.js'));
+
     app.listen(8103, function(err) {
         console.log('listen at 8103...');
     });
