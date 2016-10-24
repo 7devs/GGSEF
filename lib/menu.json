@@ -1,0 +1,49 @@
+{
+    "button": [
+        {
+            "name": "捐助查询",
+            "sub_button": [
+                {
+                    "name": "我是捐助人",
+                    "type": "click",
+                    "key": "menu1"
+                },
+                {
+                    "name": "我是学生",
+                    "type": "click",
+                    "key": "menu2"
+                },
+                {
+                    "name": "子菜单3",
+                    "type": "click",
+                    "key": "menu3"
+                }
+            ]
+        },
+        {
+            "name": "思享",
+            "sub_button": [
+                {
+                    "name": "近期活动安排",
+                    "type": "click",
+                    "key": "menu4"
+                },
+                {
+                    "name": "压箱宝",
+                    "type": "click",
+                    "key": "menu5"
+                },
+                {
+                    "name": "校友故事",
+                    "type": "click",
+                    "key": "menu6"
+                }
+            ]
+        },
+        {
+            "name": "关于基金会",
+            "type": "view",
+            "url": "http://mp.weixin.qq.com/s?__biz=MzA5NDY0MTAxOQ==&mid=200208291&idx=1&sn=e368d4b8fcc466a3fd0257469d323b12&scene=4#wechat_redirect"
+        }
+    ]
+}
