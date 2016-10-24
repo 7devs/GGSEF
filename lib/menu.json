@@ -6,17 +6,17 @@
                 {
                     "name": "我是捐助人",
                     "type": "click",
-                    "key": "menu1"
+                    "key": "menu1_1"
                 },
                 {
                     "name": "我是学生",
                     "type": "click",
-                    "key": "menu2"
+                    "key": "menu1_2"
                 },
                 {
                     "name": "子菜单3",
                     "type": "click",
-                    "key": "menu3"
+                    "key": "menu1_3"
                 }
             ]
         },
@@ -26,17 +26,17 @@
                 {
                     "name": "近期活动安排",
                     "type": "click",
-                    "key": "menu4"
+                    "key": "menu2_1"
                 },
                 {
                     "name": "压箱宝",
                     "type": "click",
-                    "key": "menu5"
+                    "key": "menu2_2"
                 },
                 {
                     "name": "校友故事",
                     "type": "click",
-                    "key": "menu6"
+                    "key": "menu2_3"
                 }
             ]
         },
