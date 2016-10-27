@@ -6,17 +6,17 @@
                 {
                     "name": "我是学生",
                     "type": "click",
-                    "key": "menu1_1"
+                    "key": "iAmStudent"
                 },
                 {
                     "name": "我是捐助人",
                     "type": "click",
-                    "key": "menu1_2"
+                    "key": "iAmSponsor"
                 },
                 {
                     "name": "成为捐助人",
                     "type": "click",
-                    "key": "menu1_3"
+                    "key": "toBeSponsor"
                 }
             ]
         },
@@ -31,7 +31,7 @@
                 {
                     "name": "2016年奖学金计划",
                     "type": "view",
-                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
+                    "url": "http://wechatdev.yokeneng.com/8103/pages/programme"
                 },
                 {
                     "name": "联系我们",
