@@ -5,18 +5,18 @@
             "sub_button": [
                 {
                     "name": "我是学生",
-                    "type": "view",
-                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
+                    "type": "click",
+                    "key": "menu1_1"
                 },
                 {
                     "name": "我是捐助人",
-                    "type": "view",
-                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
+                    "type": "click",
+                    "key": "menu1_2"
                 },
                 {
                     "name": "成为捐助人",
-                    "type": "view",
-                    "url": "http://wechatdev.yokeneng.com/8103/admin/login"
+                    "type": "click",
+                    "key": "menu1_3"
                 }
             ]
         },
